@@ -108,8 +108,6 @@ This project streamlines communication, enhances transparency, and supports proa
 4. **Publish the Power BI dashboard** connected to the same data source.  
 5. **Test end-to-end workflow** using a sample incident submission.  
 
-> For detailed setup instructions, see the `/docs/installation_guide.md` (optional).
-
 ---
 
 ## Why “Premium Cat Defense”?
